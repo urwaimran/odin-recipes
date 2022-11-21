@@ -34,5 +34,5 @@ img {
 div.recipe {
     display: grid;
     place-items: center;
-    font-size: larger;
+    font-size: medium;
 }
