@@ -1,0 +1,38 @@
+
+div.img {
+    display: grid;
+    place-items: center;
+}
+
+
+img {
+    height: auto;
+    width: 300px
+}
+
+
+.heading {
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+
+#h1 {
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.home {
+    text-align: right;
+    font-size: large;
+}
+
+
+div.recipe {
+    display: grid;
+    place-items: center;
+    font-size: larger;
+}
